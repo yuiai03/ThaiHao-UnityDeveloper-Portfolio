@@ -56,3 +56,19 @@
 </p>
 
 ***
+
+### 🎮 2D - Genshin Match 3 
+
+🟣 Match 3 and character gameplay. Player will connect elements and use character skills to defeat enemies
+
+🔗 
+[Play on Itch.io updating...]() &nbsp;
+[Source Code](https://github.com/yuiai03/GenshinMatch3.git) &nbsp;
+[Demo Video updating...]()
+
+<p>
+  <img src="https://github.com/user-attachments/assets/7c1d3585-8058-46d1-9237-d3355bb7f266" width="200" />
+  <img src="https://github.com/user-attachments/assets/bdf6b9bc-bc2d-4427-83ef-392aa03c80ed" width="200" />
+  <img src="https://github.com/user-attachments/assets/3105059f-e00c-4c22-b9a6-e266d58d3d67" width="200" />
+  <img src="https://github.com/user-attachments/assets/5f0c3dba-f271-4e3f-b99b-dd5ea068e211" width="200"/>
+</p>
