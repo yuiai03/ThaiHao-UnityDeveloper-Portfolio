@@ -1,4 +1,4 @@
-# <p align="center">I'm Thai Hao</p>
+# <p align="center">My Unity Developer Portfolio</p>
 <p align="center">
   <a href="mailto:haothai1412@gmail.com">📩 haothai1412@gmail.com</a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/lseanl03">🌐 GitHub</a>&nbsp;&nbsp;&nbsp;
@@ -59,16 +59,18 @@
 
 ### 🎮 2D - Genshin Match 3 
 
-🟣 Match 3 and character gameplay. Player will connect elements and use character skills to defeat enemies
+🟣 - Match 3 and character gameplay, player will connect elements and use character skills to defeat enemies
+- U can also play multiplayer with pvp mode to play with friend or anyone
 
 🔗 
 [Play on Itch.io updating...]() &nbsp;
 [Source Code](https://github.com/yuiai03/GenshinMatch3.git) &nbsp;
-[Demo Video updating...]()
+[Demo Video](https://youtube.com/shorts/H4s3iPHSvNE?feature=share)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/7c1d3585-8058-46d1-9237-d3355bb7f266" width="200" />
-  <img src="https://github.com/user-attachments/assets/bdf6b9bc-bc2d-4427-83ef-392aa03c80ed" width="200" />
-  <img src="https://github.com/user-attachments/assets/3105059f-e00c-4c22-b9a6-e266d58d3d67" width="200" />
-  <img src="https://github.com/user-attachments/assets/5f0c3dba-f271-4e3f-b99b-dd5ea068e211" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c1c5927a-f4f6-4e52-bb45-3b3728740f15" width="180" />
+  <img src="https://github.com/user-attachments/assets/71b9d775-7efe-4ec9-bfa3-b5cbcbd1ee88" width="180" />
+  <img src="https://github.com/user-attachments/assets/cbbc422a-d9ca-41b6-a9a3-f756651996d4" width="180" />
+  <img src="https://github.com/user-attachments/assets/10ea593a-bd2d-4f6b-a9fe-e3bbebb054d5" width="180" />
+  <img src="https://github.com/user-attachments/assets/f0149132-e128-4d5c-a3f0-ca1cafa03247" width="180" />
 </p>
