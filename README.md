@@ -12,7 +12,7 @@
 🟣 A vertical jumper game where players collect fruits, avoid enemies, and climb the leaderboard
 
 🔗 
-[Play on Itch.io](https://yuiai03.itch.io/genshin-match-3) &nbsp;
+[Play on Itch.io](https://yuiai03.itch.io/axie-jump) &nbsp;
 [Source Code](https://github.com/lseanl03/Axie-Jump.git) &nbsp;
 [Demo Video](https://youtube.com/shorts/WwEmK7ugoxA)
 
@@ -63,7 +63,7 @@
 - U can also play multiplayer with pvp mode to play with friend or anyone
 
 🔗 
-[Play on Itch.io updating...]() &nbsp;
+[Play on Itch.io](https://yuiai03.itch.io/genshin-match-3) &nbsp;
 [Source Code](https://github.com/yuiai03/GenshinMatch3.git) &nbsp;
 [Demo Video](https://youtube.com/shorts/H4s3iPHSvNE?feature=share)
 
