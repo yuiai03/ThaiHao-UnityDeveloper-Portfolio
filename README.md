@@ -81,11 +81,13 @@
 🟣 - Take it all apart to win with just a few taps!!!
 
 🔗 
-[Play on Itch.io updating...]() &nbsp;
+[Play on Itch.io](https://yuiai03.itch.io/unpuzzle) &nbsp;
 [Source Code](https://github.com/yuiai03/Unpuzzle.git) &nbsp;
-[Demo Video updating...]()
+[Demo Video](https://youtu.be/i6-ONCzD2eQ)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/91f115ec-eacf-42e4-892b-40c79eef03e1" width="200" />
-  <img src="https://github.com/user-attachments/assets/d6ec1a3f-91a7-4f3b-8b21-0df69aa5f87c" width="200" />
+  <img src="https://github.com/user-attachments/assets/f80f2d85-67f7-4ae5-ae0e-f4a0c2d6cf63" width="200" />
+  <img src="https://github.com/user-attachments/assets/e0a993cb-e8a0-4f40-a2e4-8ac71576411e" width="200" />
+  <img src="https://github.com/user-attachments/assets/1b43df9e-9f38-4dce-8fcc-b44a539644a4" width="200" />
+  <img src="https://github.com/user-attachments/assets/3536d13b-22e2-40df-99be-18b37c172f61" width="200" />
 </p>
