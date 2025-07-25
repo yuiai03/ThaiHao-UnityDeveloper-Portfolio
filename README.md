@@ -1,8 +1,8 @@
 # <p align="center">My Unity Developer Portfolio</p>
 <p align="center">
   <a href="mailto:haothai1412@gmail.com">📩 haothai1412@gmail.com</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/lseanl03">🌐 GitHub</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://lseanl03.itch.io">🎮 Itch.io</a>
+  <a href="https://github.com/yuiai03">🌐 GitHub</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://yuiai03.itch.io">🎮 Itch.io</a>
 </p>
 
 ***
