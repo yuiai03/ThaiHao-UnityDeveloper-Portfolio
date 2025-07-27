@@ -2,7 +2,8 @@
 <p align="center">
   <a href="mailto:haothai1412@gmail.com">📩 haothai1412@gmail.com</a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/yuiai03">🌐 GitHub</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://yuiai03.itch.io">🎮 Itch.io</a>
+  <a href="https://yuiai03.itch.io">🎮 Itch.io</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@YuiAI03">🎥 YouTube</a>
 </p>
 
 ***
@@ -19,7 +20,7 @@
 <p>
   <img src="https://github.com/user-attachments/assets/f9f74408-8431-4d05-bbed-48ece48a8397" width="200" />
   <img src="https://github.com/user-attachments/assets/dda2e761-0f50-4f03-be4b-91b596bf303a" width="200" />
-  <img src="https://github.com/user-attachments/assets/3fe8e880-586e-463c-8470-8d8c21fde592" width="200" />
+  <img src="https://github.com/user-attachments/assets/c89e4b48-65a3-4152-bbf2-a436a2dea25d" width="190" />
   <img src="https://github.com/user-attachments/assets/0226c35f-efe1-4cd9-a54a-69fce8ba93af" width="200" />
 </p>
 
@@ -60,7 +61,8 @@
 ### 🎮 2D - Genshin Match 3 
 
 🟣 - Match 3 and character gameplay, player will connect elements and use character skills to defeat enemies
-- U can also play multiplayer with pvp mode to play with friend or anyone
+
+🟣 - U can also play multiplayer with pvp mode
 
 🔗 
 [Play on Itch.io](https://yuiai03.itch.io/genshin-match-3) &nbsp;
