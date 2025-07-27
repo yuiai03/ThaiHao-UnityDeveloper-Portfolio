@@ -1,6 +1,5 @@
 # <p align="center">My Unity Developer Portfolio</p>
 <p align="center">
-  <a href="mailto:haothai1412@gmail.com">📩 haothai1412@gmail.com</a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/yuiai03">🌐 GitHub</a>&nbsp;&nbsp;&nbsp;
   <a href="https://yuiai03.itch.io">🎮 Itch.io</a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@YuiAI03">🎥 YouTube</a>
@@ -10,7 +9,7 @@
 
 ### 🎮 2D - Axie Jump
 
-🟣 A vertical jumper game where players collect fruits, avoid enemies, and climb the leaderboard
+🟣 A vertical jumper game, players just need click left and right to jump, collect fruits, and climb the leaderboard
 
 🔗 
 [Play on Itch.io](https://yuiai03.itch.io/axie-jump) &nbsp;
@@ -44,7 +43,7 @@
 
 ### 🎮 2D - TCG 
 
-🟣 A turn-based card game where players use character and skill cards to attack opponents
+🟣 A turn-based card game where players use character skill and skill cards to attack enemy  
 
 🔗 
 [Play on Itch.io](https://yuiai03.itch.io/tcg) &nbsp;
@@ -56,11 +55,27 @@
   <img src="https://github.com/user-attachments/assets/8b6298d1-0587-4834-bf09-6cc72eeb88b7" width="400"/>
 </p>
 
+### 🎮 2D - Fungi Impact 
+
+🟣 - Top down game takes gameplay and fungus enemy ideas from Genshin Impact
+
+🔗 
+[Download on Itch.io](https://yuiai03.itch.io/fungi-impact) &nbsp;
+[Source Code](https://github.com/yuiai03/Fungi-Impact) &nbsp;
+[Demo Video](https://youtu.be/3Xg-SvreByk)
+
+<p>
+  <img src="https://github.com/user-attachments/assets/3e5666db-4e14-4f93-a730-4385c2209c68" width="400" />
+  <img src="https://github.com/user-attachments/assets/bc722578-3b43-4419-a020-a2d22d7d5936" width="400" />
+  <img src="https://github.com/user-attachments/assets/5b191eae-0903-4539-9995-a35f293105b5" width="400" />
+  <img src="https://github.com/user-attachments/assets/e71891cd-326e-423d-b5de-7eeacb4210cd" width="400" />
+</p>
+
 ***
 
 ### 🎮 2D - Genshin Match 3 
 
-🟣 - Match 3 and character gameplay, player will connect elements and use character skills to defeat enemies
+🟣 - Match 3 and character gameplay, connect elements and use character skills to defeat enemies
 
 🟣 - U can also play multiplayer with pvp mode
 
